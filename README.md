@@ -1,6 +1,8 @@
 ## Hello, my name is Kez.
-I have a B.A. in Computer Science and Software Engineering from UW Bothell with an emphasis on Math. Here are a few things about me:
--  I’m currently working on a SQLite database for concert ticket management and some AI experiments
+As of Spring 2021, I have a B.A. in Computer Science and Software Engineering from UW Bothell with an emphasis on Math. 
+
+### About Me
+Here are a few things about me:
 -  I’m currently learning SQLite with VSCode, bash, and Python; reinforcement learning algorithms in python; mathimatical proofs in LaTeX
 -  How to reach me: [LinkedIn](www.linkedin.com/in/keziahmay/)
 -  Pronouns: she/her/hers
