@@ -1,4 +1,4 @@
-## Hello, my name is Kez.
+## Hello, my name is Kez. 👋
 As of Spring 2021, I have a B.A. in Computer Science and Software Engineering from UW Bothell with an emphasis on Math. 
 
 ### About Me
