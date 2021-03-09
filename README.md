@@ -1,4 +1,4 @@
-### Hello, my name is Kez.
+## Hello, my name is Kez.
 I have a B.A. in Computer Science and Software Engineering from UW Bothell with an emphasis on Math. Here are a few things about me:
 -  I’m currently working on a SQLite database for concert ticket management and some AI experiments
 -  I’m currently learning SQLite with VSCode, bash, and Python; reinforcement learning algorithms in python; mathimatical proofs in LaTeX
@@ -8,4 +8,4 @@ I have a B.A. in Computer Science and Software Engineering from UW Bothell with 
 
 I'm interested in Software Engineering jobs in the greater Seattle area of Washington. 
 
-#### Project Highlights
+### Project Highlights
