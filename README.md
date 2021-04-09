@@ -4,7 +4,7 @@ As of June 2021, I have a B.A. in Computer Science and Software Engineering from
 ### About Me
 Here are a few things about me:
 -  I’m currently learning user-research, principles of human-computer interaction, and game development with C# in Unity
--  Current projects: Technical interview course, CSS weed-out course supplimentary lessons, novice programmer automated feedback, modifying research webpage
+-  Current projects: technical interview course, CSS weed-out course supplimentary lessons, novice programmer automated feedback, modifying research webpage
 -  How to reach me: [LinkedIn](www.linkedin.com/in/keziahmay/)
 -  Pronouns: she/her/hers
 -  Fun facts: I ride motorcycles, pick up heavy things, and love to meet people
