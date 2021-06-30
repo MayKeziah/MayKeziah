@@ -12,4 +12,4 @@ Here are a few things about me:
 I'm interested in Software Engineering jobs in the greater Seattle area of Washington. 
 
 ### Project Highlights
-Check out my [project page](https://maykeziah.github.io/projects.html)!
+Check out my [software project page](https://maykeziah.github.io/Projects/Software/projects.html)!
