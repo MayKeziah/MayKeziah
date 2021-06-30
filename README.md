@@ -3,8 +3,8 @@ As of June 2021, I have a B.A. in Computer Science and Software Engineering from
 
 ### About Me
 Here are a few things about me:
--  I’m currently learning user-research, principles of human-computer interaction, and game development with C# in Unity
--  Current projects: technical interview course, CSS weed-out course supplimentary lessons, novice programmer automated feedback, modifying research webpage
+-  I’m currently developing my problem-solving speed and pattern recognition using Leetcode, Project Euler, and mock interviews
+-  Recent projects: Unity level editor for [DogChain](https://maykeziah.github.io/DogChainOfficial/) in C#, [database testing](https://maykeziah.github.io/Projects/Software/sqliteTestClient.html) in SQLite and Python, Dissassembler from binary to Assembly in Assembly with Easy68k, and Battleship GUI and backend using client-server architecture in Python.
 -  How to reach me: [LinkedIn](www.linkedin.com/in/keziahmay/)
 -  Pronouns: she/her/hers
 -  Fun facts: I ride motorcycles, pick up heavy things, and love to meet people
